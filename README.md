@@ -1,6 +1,6 @@
 # Real Estate Scraper
 
-![Project Logo or Screenshot](url_to_image)
+
 
 ## Overview
 
